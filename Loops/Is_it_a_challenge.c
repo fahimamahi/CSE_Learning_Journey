@@ -3,22 +3,22 @@
 int main() 
 {
     int N,i;
-    
     scanf("%d",&N);
-    int A[N];
     
-    for(i=0;i<N;i++)
+    if(N>0)
     {
-        scanf("%d",&A[i]);
-    }
-    
-    for(i=N-1;i>=0;i--)
-    {
-        if(i%2!=0)
+        for(i=1;i<=N;i++)
         {
-            printf("%d ",A[i]);
+            printf("%d ",i);
         }
     }
-     
+    else
+    {
+        for(i=N;i<=0;i++)
+        {
+            printf("%d ",i);
+        }
+    }  
     return 0;
 }
+
