@@ -1,6 +1,5 @@
 # C Practice Codes
 
-Welcome to my coding practice repository!  
 Here I upload my daily C programs as I learn different concepts in programming.
 
 ## 📚 Topics Covered
@@ -11,6 +10,5 @@ Here I upload my daily C programs as I learn different concepts in programming.
 - Structures
 - Pointers
 
-## 💬 About Me
-I’m a CSE student learning the fundamentals of programming and problem-solving.
+
 
