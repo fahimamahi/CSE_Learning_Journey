@@ -1,4 +1,3 @@
-# CSE_Learning_Journey
 # Hi there, I'm Fahim 👋  
 
 🎓 I'm a CSE student who loves diving deep into how technology really works — from the logic inside code to the systems that run it all.  
